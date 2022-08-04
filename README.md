@@ -1,1 +1,1 @@
-# Exercise_kntu
+# Exercise
