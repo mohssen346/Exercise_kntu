@@ -1,0 +1,15 @@
+Name,Null,Number,Decision,incompatible,Decision,Important
+RowNumber,No,0,-,No,-,No
+CustomerId,No,0,-,No,-,No
+Surname,Yes,2,Delete,-,-,No
+CreditScore,No,0,-,No,-,Yes
+Geography,Yes,2,Delete,Yes,Delete,Yes
+Gender,Yes,4,fill,Yes,fill,No
+Age,No,0,-,Yes,Delete,No
+Tenure,Yes,1,Delete,No,-,No
+Balance,Yes,1,Delete,No,-,Yes
+NumOfProducts,Yes,1,Delete,No,-,No
+HasCrCard,Yes,1,Delete,Yes,Delete,No
+IsActiveMember,Yes,2,Delete,Yes,Delete,Yes
+EstimatedSalary,Yes,7,fill,No,-,No
+Exited,Yes,1,Delete,No,-,Yes
